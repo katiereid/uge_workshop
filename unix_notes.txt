@@ -1,0 +1,86 @@
+ starting 1/3/15 - unix notes
+   37  pwd
+   38  cd ~
+   39  ls
+   40  ls -l
+   41  ls
+   42  ls -a
+   43  pwd
+   44  cd /
+   45  pwd
+   46  ls
+   47  ls -t
+   48  ls -l
+   49  ls -lt
+   50  ls -rt
+   51  ls -rtl
+   52  man ls
+   53  pwd
+   54  man ls
+   55  ls -al
+   56  clear
+   57  cd ~
+   58  pwd
+   59  ls
+   60  ls -l
+   61  ls -lp
+   62  cd documents/
+   63  pwd
+   64  ls
+   65  cd bookreview.rtf 
+   66  cd `
+   67  cd~
+   68  q
+   69  clear
+   70  cd ~
+   71  ls -l
+   72  cd music
+   73  ls
+   74  ls -l
+   75  cd itunes
+   76  pwd
+   77  ls
+   78  ls-l
+   79  ls -l
+   80  cd album artwork
+   81  pwd
+   82  cd ..
+   83  pwd
+   84  cd ..
+   85  pwd
+   86  cd music
+   87  cd itunes
+   88  ls -l
+   89  cd Album\ Artwork/
+   90  cd ~
+   91  cd Album\ Artwork/
+   92  cd music
+   93  cd itunes
+   94  cd Album\ Artwork/
+   95  pwd
+   96  cd
+   97  pwd
+   98  ls /
+   99  cd /
+  100  pwd
+  101  ls /
+  102  ls -long
+  103  pwd
+  104  cd
+  105  pwf
+  106  pwd
+  107  clear
+  108  ls .
+  109  history
+  110  history 10
+  111  history | less
+  112  man less
+  113  man less
+  114  clear
+  115  pwd
+  116  history > moving_around.txt
+  117  ls -t
+  118  less moving_around.txt 
+  119  history >> moving_around.txt 
+  120  less moving_around.txt 
+  121  history > moving_around.txt 
