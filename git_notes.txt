@@ -1,0 +1,31 @@
+Basic steps for GIT
+	1- git init
+	2- git status
+	3- git add
+	4- git commit -m
+	Also, git log (list of commits), git checkout, and git branch to make a new branch  
+
+	We then learned out to push our repo to the remote on github  
+ 
+
+
+  167  git log
+  168  ls -al
+  169  cat unix_notes.txt 
+  170  git status
+  171  git add unix_notes.txt 
+  172  git status
+  173  git diff --staged
+  174  git commit -m "add notes about hidden files and directories"
+  175  git log
+  176  git branch git-notes
+  177  git branch
+  178  git checkout git-notes
+  179  git branch
+  180  git status
+  181  touch git_notes.txt
+  182  ls -l
+  183  subl git_notes.txt 
+  184  history >> git_notes.txt
+  185  history 20 >>git_notes.txt
+  186  history 20 >>git_notes.txt
