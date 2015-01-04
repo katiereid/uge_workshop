@@ -3,7 +3,9 @@ Basic steps for GIT
 	2- git status
 	3- git add
 	4- git commit -m
-	Also, git log (list of commits), git checkout, and git branch to make a new branch    
+	Also, git log (list of commits), git checkout, and git branch to make a new branch  
+
+	We then learned out to push our repo to the remote on github  
  
 
 
